@@ -19,10 +19,10 @@ This repository contains the complete v1.0 white paper and associated modular sp
 ## 📘 Included Documents
 
 
-Full white paper - including Chapters 1–8 
-Appendix_A_Module Chain and Structure- Definitions of semantic terms and syntax 
-Appendix_B_Module_Orchestrator - Practical module orchestration template 
-Appendix_C_Snapshot_Module - Semantic closure and snapshot implementation 
+*Full white paper* - including Chapters 1–8    
+*Appendix_A_Module Chain and Structure* - Definitions of semantic terms and syntax       
+*Appendix_B_Module_Orchestrator* - Practical module orchestration template         
+*Appendix_C_Snapshot_Module* - Semantic closure and snapshot implementation       
 
 ---
 
