@@ -93,4 +93,4 @@ SLS is *not* prompt engineering. It is a formalized semantic system designed to 
 ## ✉️ Contact / Collaboration
 
 For collaborations or inquiries, please credit the author and cite this repository in derivative works.
-Contact via chonghin33@outlook.com
+Contact via chonghin33@outlook.com  Vincent Shing Hin Chong
