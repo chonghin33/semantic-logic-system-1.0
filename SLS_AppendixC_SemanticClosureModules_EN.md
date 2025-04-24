@@ -1,6 +1,9 @@
 
 ## Appendix C: Semantic Closure Module API + Digest Generator Specification
-
+**Author**: Vincent Shing Hin Chong  
+**Version**: v1.0 (Finalized April 2025)  
+**Status**: Hash-sealed & Publication-ready  
+--
 This appendix defines the structural and operational standards for modules responsible for triggering, validating, and generating semantic closures within the Semantic Logic System (SLS). These modules serve as the final gatekeepers of semantic coherence and lifecycle governance.
 
 ---
