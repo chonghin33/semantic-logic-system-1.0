@@ -4,7 +4,8 @@
 **Version:** 1.0  
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 **Released:** April 2025  
-
+**ORCID:** https://orcid.org/0009-0000-8198-6278 
+**Contact:** chonghin33@outlook.com (Open for collaboration)
 ---
 
 ## 🧠 Overview
@@ -86,3 +87,4 @@ SLS is *not* prompt engineering. It is a formalized semantic system designed to 
 ## ✉️ Contact / Collaboration
 
 For collaborations or inquiries, please credit the author and cite this repository in derivative works.
+Contact via chonghin33@outlook.com
