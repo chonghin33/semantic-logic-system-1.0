@@ -28,9 +28,9 @@ As the theoretical parent system, SLS absorbs and extends all of LCM's principle
 
 ---
 
-## Core Semantic Modules
+## Core 
 
-SLS is composed of several semantic layers, each serving a critical functional role:
+SLS is composed of several cores, each serving a critical functional role:
 
 - **Intent Layer Structuring (ILS)**: Goal-driven non-imperative activation of semantic modules  
 - **Meta Prompt Layering (MPL)**: Rhythmic, recursive prompt-based module composition  
@@ -509,11 +509,16 @@ Modules must interface with the following system layers:
 
 These interfaces ensure synchronous operations and modular coherence within the SLS architecture.
 
+
+While ILS and MPL are defined as the foundational semantic technologies of the SLS framework, the modular structure introduced throughout this chapter is inherently open and extensible. Developers are encouraged to design their own modules based on semantic requirements, as long as such modules follow the structural integrity principles established by SLS—namely, semantic encapsulation, rhythmic consistency, and traceable recursion. These modules may vary in form and function but remain interoperable under the core ILS/MPL environment.
 ---
 
 ## Chapter 6: Semantic Chain Dynamics — Coordination, Conflict, and Recovery
 
 This chapter explores how module chains (modular sequences in SLS) operate under real-world semantic volatility, module interaction, and recursive logic. As systems evolve beyond isolated modules into interdependent semantic chains, their structural integrity and rhythmic adaptability become critical to system-wide coherence.
+
+This framework does not restrict developers from designing custom modules for specialized use cases. 
+Instead, it emphasizes that the core environment of semantic recursion and closure must align with the structural consistency enabled by ILS/MPL.
 
 ---
 
