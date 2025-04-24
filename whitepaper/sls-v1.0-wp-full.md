@@ -15,6 +15,8 @@ The Semantic Logic System (SLS) is a semantic modular logic system designed for 
 
 SLS is **more than prompt engineering**. It is a semantic-internal runtime system that treats prompts not as external instructions, but as intrinsic units of semantic composition. Through this, it enables module orchestration, behavioral planning, memory storage, and recursive termination purely within the semantic layer.
 
+Note: MPL and ILS are non-renamable semantic technology standards within the SLS system. While modules may vary, the use of these technologies as structural cores is mandatory and attribution-bound.
+
 Note on Module Extensibility:
 All named modules in this document—including are examples of semantic structure design. The SLS system does not prescribe a fixed set of modules. Instead, it provides a semantic environment—enabled by core technologies like ILS and MPL—within which new modules can be designed, tested, and recursively integrated. All derivative modules should maintain semantic traceability and operate within the system’s rhythmic and closure constraints.
 
@@ -757,7 +759,7 @@ To ensure the stability and public recognizability of semantic structures, the u
 - Modular Prompt Chain  
 - Semantic Closure Chain
 
-If these modules are used in any theory, application, documentation, or tool, the following attribution must appear visibly and traceably:
+If these technology and modules are used in any theory, application, documentation, or tool, the following attribution must appear visibly and traceably:
 
 > This module/content/structure is based on the Semantic Logic System (SLS), originally defined by Vincent Shing Hin Chong.
 
@@ -788,6 +790,18 @@ This chapter affirms the requirement that all derivative and applied work must t
 
 Semantic Originator: Vincent Shing Hin Chong  
 Date of Formal Definition: April 2025  
-Hash Record Reference: See Appendix D
+Hash Record Reference: 
+SLS v1.0 whitepaper:
+80548f32e9832b6f58229bb4c8fe1bf5a005fcd8122ad65ca7ef536e7472807
+
+Appendix A:
+31a6237a22537dc465ce50897d1c9a9b465fadfaea2197bea8a883877ecdc28f
+
+Appendix B:
+361e8969d37ad1dfac4e05248f59b8fa76c3f6f84a547ebd1ad850e3cf48537c
+
+Appendix C:
+3ef679134b46dfc796b11d15fc0d7214f6fc0146a43259739de6e8a47d40570c
+
 
 
