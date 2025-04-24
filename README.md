@@ -21,12 +21,9 @@ This repository contains the complete v1.0 white paper and associated modular sp
 | Component | Description |
 |-----------|-------------|
 | `sls-v1.9-wp-full.md` | Full white paper, including Chapters 1–8 |
-| `Appendix_A_Lexicon_Syntax.md` | Definitions of semantic terms and syntax |
+| `Appendix_A_Module Chain and Structure.md` | Definitions of semantic terms and syntax |
 | `Appendix_B_Module_Orchestrator.md` | Practical module orchestration template |
 | `Appendix_C_Snapshot_Module.md` | Semantic closure and snapshot implementation |
-| `Appendix_D_Hash_Verification.md` | Hash-based verification record |
-| `SLS_v1.0_GitHub_Hash_Record.md` | GitHub versioned hash proof |
-| `LICENSE_SLS_CC_BY_4.0.md` | Licensing and attribution statement |
 
 ---
 
