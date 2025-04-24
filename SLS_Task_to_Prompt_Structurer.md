@@ -1,5 +1,5 @@
 # Task-to-Prompt Structurer
-
+Author: Vincent Shing Hin Chong
 ## Overview
 
 This application module demonstrates how natural language task descriptions can be transformed into structured, reusable semantic prompt modules using the SLS (Semantic Logic System) architecture.
