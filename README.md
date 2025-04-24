@@ -4,7 +4,7 @@
 **Version:** 1.0  
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 **Released:** April 2025  
-**ORCID:** https://orcid.org/0009-0000-8198-6278 
+**ORCID:** https://orcid.org/0009-0000-8198-6278     
 **Contact:** chonghin33@outlook.com (Open for collaboration)
 ---
 
