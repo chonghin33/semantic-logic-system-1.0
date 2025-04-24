@@ -15,6 +15,9 @@ The Semantic Logic System (SLS) is a semantic modular logic system designed for 
 
 SLS is **more than prompt engineering**. It is a semantic-internal runtime system that treats prompts not as external instructions, but as intrinsic units of semantic composition. Through this, it enables module orchestration, behavioral planning, memory storage, and recursive termination purely within the semantic layer.
 
+Note on Module Extensibility:
+All named modules in this document—including are examples of semantic structure design. The SLS system does not prescribe a fixed set of modules. Instead, it provides a semantic environment—enabled by core technologies like ILS and MPL—within which new modules can be designed, tested, and recursively integrated. All derivative modules should maintain semantic traceability and operate within the system’s rhythmic and closure constraints.
+
 ---
 
 ## Relationship to LCM
@@ -30,10 +33,13 @@ As the theoretical parent system, SLS absorbs and extends all of LCM's principle
 
 ## Core 
 
-SLS is composed of several cores, each serving a critical functional role:
+SLS is composed of the core technology and modules, each serving a critical functional role:
 
+Core Technology:
 - **Intent Layer Structuring (ILS)**: Goal-driven non-imperative activation of semantic modules  
-- **Meta Prompt Layering (MPL)**: Rhythmic, recursive prompt-based module composition  
+- **Meta Prompt Layering (MPL)**: Rhythmic, recursive prompt-based module composition
+
+Modules
 - **Semantic Snapshot**: Memory and semantic state storage in formalized linguistic structures  
 - **Modular Prompt Chain**: Structural chain of semantic tasks and module orchestration  
 - **Closure Chain**: Logic termination framework for recursive finalization
