@@ -1,5 +1,7 @@
 # Semantic Knowledge Compressor
 
+Author: Vincent Shing Hin Chong
+
 ## Overview
 
 This application module demonstrates how the SLS (Semantic Logic System) framework utilizes its core semantic technologies—ILS (Intent Layer Structuring) and MPL (Meta Prompt Layering)—to convert long-form, unstructured or overly verbose textual content into modular, prompt-ready semantic blocks.
