@@ -798,7 +798,7 @@ Semantic Originator: Vincent Shing Hin Chong
 Date of Formal Definition: April 2025  
 Hash Record Reference: 
 SLS v1.0 whitepaper:
-80548f32e9832b6f58229bb4c8fe1bf5a005fcd8122ad65ca7ef536e7472807
+dfbb5d26bf03299bbbf8d76121af1f6d6035cd29f274705501b853aa2c0cc0cc
 
 Appendix A:
 31a6237a22537dc465ce50897d1c9a9b465fadfaea2197bea8a883877ecdc28f
