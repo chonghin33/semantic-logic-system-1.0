@@ -50,6 +50,15 @@ SLS is designed to operate entirely within LLM environments. It is compatible wi
 
 > No external plugin or API is required — the system runs purely on language.
 
+
+## Related Whitepaper
+
+This framework is built upon and expands the principles established in:
+[Language Construct Modeling (LCM) — by Vincent Shing Hin Chong]([https://github.com/chonghin33/lcm-1.13-whitepaper])
+
+LCM introduced recursive prompt logic and modular composition in language-first systems.  
+SLS builds upon that foundation to construct a full semantic runtime environment.
+
 ---
 
 ## 🔐 Integrity & Attribution
