@@ -148,8 +148,14 @@ You’re not merely instructing a model—you are telling it:
 
 In the Semantic Logic System (SLS), semantic modules are no longer controlled by explicit external commands. Instead, they are triggered through symbolic semantic conditions embedded in natural language input. This structural design is defined as **Intent Layer Structuring (ILS)**.
 
+
 ILS represents a paradigm shift—from *user-specified instruction chains* to *language-native semantic structure activation*. It enables **modular behavior orchestration via meaning**, not command.
 
+Add-on:### Semantic Detective Prompt (SDP)
+
+SDP is a semantic prompting technique designed to uncover latent structure, implicit intent, or logical rhythm embedded in language inputs. By guiding LLMs to adopt an investigative, interpretive posture, SDP acts as a diagnostic prelude to ILS and can be used to detect the presence of module-worthy semantic segments prior to formal structure layering via MPL.
+
+Unlike standard prompting, SDP emphasizes interrogation over assertion, using questions, analogical testing, and context inversion to surface semantic relationships not explicitly declared.
 ---
 
 ### 1. Symbolic Semantic Triggers for Modular Structure Search and Assembly
