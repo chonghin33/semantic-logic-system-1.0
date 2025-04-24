@@ -94,3 +94,9 @@ SLS is *not* prompt engineering. It is a formalized semantic system designed to 
 
 For collaborations or inquiries, please credit the author and cite this repository in derivative works.
 Contact via chonghin33@outlook.com  Vincent Shing Hin Chong
+=======
+Framework: Semantic Logic System (SLS)  
+Version: v1.0  
+Author: Vincent Shing Hin Chong  
+License: CC BY SA 4.0  
+Contact: chonghin33@outlook.com
