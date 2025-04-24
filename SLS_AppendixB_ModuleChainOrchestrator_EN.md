@@ -1,6 +1,9 @@
 
 ## Appendix B: Standard Module API Specification (v1.2)
-
+**Author**: Vincent Shing Hin Chong  
+**Version**: v1.0 (Finalized April 2025)  
+**Status**: Hash-sealed & Publication-ready  
+--
 ### Module Example: Module Chain Orchestrator
 
 This specification defines a controller-type module used to orchestrate the flow, interaction, and semantic consistency of modular chains within the Semantic Logic System (SLS). This type of module demonstrates how a single meta-module can manage, sequence, and recursively control a series of semantic modules.
