@@ -1,5 +1,5 @@
 # Semantic Logic System (SLS) v1.0
-DOI: [10.17605/OSF.IO/9GTDF](https://doi.org/10.17605/OSF.IO/XXXX)
+DOI: DOI 10.17605/OSF.IO/9GTDF
 ---
 **Author:** Vincent Shing Hin Chong  
 **Version:** 1.0  
