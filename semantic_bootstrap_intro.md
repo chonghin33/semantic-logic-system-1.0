@@ -78,3 +78,4 @@ And if that’s true, then the implications are clear:
 
 That is the moment the language model stops responding—  
 and starts operating.
+-----------------------------
