@@ -3,7 +3,7 @@
 
 **Author:** Vincent Shing Hin Chong  
 **For inclusion in SLS White Paper – Independent Foundational Note**  
-**Version: Finalized**
+**Status: Hash-sealed & Publication-ready**
 
 ---
 
